@@ -9,3 +9,7 @@
 The SVG Generator is a small application using Inquirer NPM which when run will give you a series of prompts, which when answered will generate a SVG logo to the specifications you provided.
 
 I made this project to deepen my knowledge on using node.js to create applications using JavaScript. I also wanted to use Object-oriented programming 
+
+## Credits
+
+[Examples of a lookup table](https://dev.to/k_penguin_sato/use-lookup-tables-for-cleaning-up-your-js-ts-code-9gk) - Used for the class lookup table.
