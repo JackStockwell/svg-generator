@@ -13,3 +13,5 @@ I made this project to deepen my knowledge on using node.js to create applicatio
 ## Credits
 
 [Examples of a lookup table](https://dev.to/k_penguin_sato/use-lookup-tables-for-cleaning-up-your-js-ts-code-9gk) - Used for the class lookup table.
+
+[Regex for a valid HEX code](https://stackoverflow.com/questions/1636350/how-to-identify-a-given-string-is-hex-color-format) - Used to validate the hex code input.
