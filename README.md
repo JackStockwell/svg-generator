@@ -22,7 +22,7 @@ I learnt a great deal while working on this project, like how jest can be used t
 
 ## Installation
 
-I would recommend watching my full guide [here](TBD) for a more streamlined experience. If not, see below.
+I would recommend watching my full guide [here](https://drive.google.com/file/d/1TYBye4wX9ITZdYZWqoFLkb5VhnOY9N1N/view) for a more streamlined experience. If not, see below.
 
 ### Written Tutorial
 
